@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
 matplotlib
+=======
+pandas
+numpy
+scikit-learn
+matplotlib
+>>>>>>> b95ca2e (Add large files with Git LFS tracking)
 seaborn

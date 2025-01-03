@@ -2,6 +2,8 @@
 # Hướng Dẫn Chạy Dự Án
 ## 1. Yêu Cầu Môi Trường
 - **Python**: >= 3.8
+- Git-2.47.1-64-bit.exe
+- git-lfs-windows-v3.6.0.exe
 - Các thư viện cần thiết:
 
 pip install pandas numpy scikit-learn matplotlib seaborn

@@ -40,6 +40,7 @@ jupyter notebook
 - Tiền xử lý dữ liệu.
 - Huấn luyện mô hình.
 - Lưu mô hình tại `model/random_forest_model.pkl`.
+- luu file 'label_encoder.pkl'  tại `label_encoder.pkl'`.
 
 ### 3.2. Chạy File `main.py` Để Dự Đoán
 1. Đảm bảo file mô hình `random_forest_model.pkl` đã tồn tại.

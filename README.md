@@ -20,7 +20,11 @@ random_forest_project/
     └── test_predictions.csv   # Kết quả dự đoán
 
 ## 3. Hướng Dẫn Chạy
+###########################
+git clone https://github.com/PhuongNGT/NHOM6-NT211.git
+cd NHOM6-NT211
 
+###########################
 ### 3.1. Chạy Notebook Huấn Luyện
 1. Mở terminal và di chuyển vào thư mục gốc của dự án:
 

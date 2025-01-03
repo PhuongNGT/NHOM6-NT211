@@ -22,6 +22,7 @@ random_forest_project/
 ## 3. Hướng Dẫn Chạy
 ###########################
 git clone https://github.com/PhuongNGT/NHOM6-NT211.git
+
 cd NHOM6-NT211
 
 ###########################
